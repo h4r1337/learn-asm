@@ -30,4 +30,5 @@ sudo make install
 
 - [lesson 1 - Hello, world!](lesson1/)
 - [lesson 2 - Proper program exit](lesson2/)
+- [lesson 3 - Calculate string length](lesson3/)
 
