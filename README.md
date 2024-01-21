@@ -28,5 +28,6 @@ sudo make install
 
 ## Lessons
 
-- [lesson 1 - Hello, world!](lesson1/README.md)
+- [lesson 1 - Hello, world!](lesson1/)
+- [lesson 2 - Proper program exit](lesson2/)
 
