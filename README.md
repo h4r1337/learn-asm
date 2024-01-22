@@ -34,4 +34,5 @@ sudo make install
 - [lesson 4 - Subroutines](lesson4/)
 - [lesson 5 - External include fils](lesson5/)
 - [lesson 6 - NULL terminating bytes](lesson6/)
+- [lesson 7 - Linefeeds](lesson7/)
 
