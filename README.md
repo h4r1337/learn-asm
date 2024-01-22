@@ -33,4 +33,5 @@ sudo make install
 - [lesson 3 - Calculate string length](lesson3/)
 - [lesson 4 - Subroutines](lesson4/)
 - [lesson 5 - External include fils](lesson5/)
+- [lesson 6 - NULL terminating bytes](lesson6/)
 
